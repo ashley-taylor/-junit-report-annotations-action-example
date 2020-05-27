@@ -1,7 +1,6 @@
 name: BFP branch
 on: 
-  push:
-    branches-ignore: master
+  push
 
 jobs:
   build:
