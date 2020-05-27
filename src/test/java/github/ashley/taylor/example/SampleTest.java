@@ -17,9 +17,5 @@ public class SampleTest {
 		
 	}
 	
-	@Test
-	public void testFail() {
-		Assertions.fail();
-	}
-	
+
 }
